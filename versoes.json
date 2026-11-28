@@ -1,5 +1,11 @@
 [
   {
+    "versao": "1.7.1",
+    "arquivo": "hds-vision-1.7.1.exe",
+    "sha256": "879038c452f7105ce71f4c5e8d184b1cdd267a4d9bcd872dee9b37a9099a5755",
+    "data": "2026-11-27 21:13"
+  },
+  {
     "versao": "1.7.0",
     "arquivo": "hds-vision-1.7.0.exe",
     "sha256": "cbb77c2ba380451655bd6e341acaaad9d13bdf7568a64a222f38cd846f18b99f",
